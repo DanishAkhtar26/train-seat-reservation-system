@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: yellowgreen;
+}
+.header > h1 {
+  margin-left: 10px;
+}
+.navbar {
+  float: right;
+}
+.navbar a {
+  color: black;
+  margin-right: 10px;
+  text-decoration: none;
+}
